@@ -3,6 +3,7 @@
 Sistem informasi untuk agen perjalanan Haji dan Umroh yang memungkinkan pengguna memesan paket perjalanan, melihat layanan, membaca informasi, serta mengunggah bukti pembayaran. Sistem ini memiliki dashboard admin untuk mengelola data layanan, jamaah, testimoni, mitra, dan lainnya.
 
 > ⚠️ Bagian frontend **tidak disertakan** dalam repositori ini karena menggunakan template berbayar dari ThemeForest.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/a2f26d1c-4f4c-42b5-a439-a1a2154e16bc" />
 
 ---
 
